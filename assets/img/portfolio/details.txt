@@ -1,0 +1,2 @@
+Image size: 800 x 600
+Aspect ratio: 4 to 3
