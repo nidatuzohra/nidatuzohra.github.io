@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Cambria";
+  font-family: "Arial";
   color: #272829;
 }
 
@@ -405,7 +405,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Cambria"; /*Poppins*/
+  font-family: "Poppins"; /*Poppins*/
   color: #050d18;
 }
 
@@ -448,7 +448,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Cambria";	/*Poppins*/
+  font-family: "Poppins";	/*Poppins*/
   color: #050d18;
   margin-bottom: 10px;
 }
