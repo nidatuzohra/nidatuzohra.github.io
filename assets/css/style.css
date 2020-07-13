@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 15px;
   background: #f7f7f7; 
   overflow-y: auto;
+  opacity: 0.8;
 }
 
 #header .profile img {
