@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #893ec7;
   transition: background 0.2s ease-in-out;
 }
 
@@ -69,16 +69,15 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #f7f7f7; 
+  background: #372a42;
   overflow-y: auto;
-  opacity: 0.8;
 }
 
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #afc9b2;
+  border: 8px solid #251b2e;
 }
 
 #header .profile h1 {
@@ -92,15 +91,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile h1 a, #header .profile h1 a:hover {
-  color: #000000;
+  color: #fff;
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #f7f7f7;
-  color: #000000;
+  background: #251b2e;
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -113,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .profile .social-links a:hover {
   background: #149ddd;
-  color: #f7f7f7;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -152,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #a8a9b4;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -167,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #000000;
+  color: #fff;
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
