@@ -561,13 +561,31 @@
 
          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
 		 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdGfrDbH1ATJFEhVz_kMLaZA2X4YH5TkBCE9G0STSvu2ELj3g/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-			Name:<br>
-			<input type="text" name="entry.326955045" id="entry.326955045"><br>
+			<div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="entry.326955045" class="form-control" id="entry.326955045" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <div class="validate"></div>
+                </div>
+				<div class="form-group col-md-6">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="entry.879531967" id="entry.879531967" data-rule="email" data-msg="Please enter a valid email" />
+                  <div class="validate"></div>
+                </div>
+				<div class="form-group">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="entry.809904304" id="entry.809904304" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <div class="validate"></div>
+				<div class="text-center"><button type="submit">Send Message</button></div>
+              </div>
+			
+			<!--Name:<br>
+			<input type="text" name="entry.326955045" id="entry.326955045"><br>X
 			Email:<br>
 			<input type="text" name="entry.879531967" id="entry.879531967">
 			Feedback:<br>
 			<input type="text" name="entry.809904304" id="entry.809904304">
-			<input type="submit" value="Submit">
+			<input type="submit" value="Submit">-->
 		 </form>
 
 		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
