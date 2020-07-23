@@ -818,7 +818,7 @@ section {
 }
 
 .contact .php-email-form h3 {
-  position: relative;
+  padding: 0 0 10px 70px;
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 5px;
@@ -845,10 +845,10 @@ section {
 }
 
 .contact .php-email-form p {
-  padding: 0 0 10px 60px;
-  position: relative;
+  padding: 0 0 10px 70px;
   margin-bottom: 20px;
   font-size: 14px;
+  text-align: left;
 }
 
 .contact .php-email-form .form-group {
