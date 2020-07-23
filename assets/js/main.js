@@ -183,7 +183,7 @@
   
   	$('#gform').on('submit', function(e) {
 	$('#gform *').fadeOut(2000);
-	$('#gform').prepend('Your submission has been processed...');
+	$('#gform').prepend('Your message has been received. Thank you!');
 	});
 
   // Init AOS
