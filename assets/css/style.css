@@ -826,8 +826,17 @@ section {
 }
 
 .contact .php-email-form i {
-  color: #fff;
-  font-size: 24px;
+  font-size: 20px;
+  color: #149ddd;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #dff3fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
 }
 
 .contact .php-email-form:hover i {
