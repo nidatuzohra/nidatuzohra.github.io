@@ -818,11 +818,16 @@ section {
 }
 
 .contact .php-email-form h3 {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 20px;
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 5px;
   color: #173b6c;
+}
+
+.contact .php-email-form i {
+  color: #fff;
+  font-size: 24px;
 }
 
 .contact .php-email-form:hover i {
@@ -831,10 +836,9 @@ section {
 }
 
 .contact .php-email-form p {
-  padding: 0 0 10px 60px;
+  padding: 0 0 10px 20px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
 }
 
 .contact .php-email-form .form-group {
