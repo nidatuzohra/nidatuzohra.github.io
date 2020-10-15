@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(211, 189, 218);
+}
+
+h1{
+  text-align:center;
+  color: rgb(72, 3, 93);
+}
+
+h3{
+  color: rgb(3, 93, 27);
+}
+
+canvas{
+  width: 600px;
+  border: 1px solid grey;
+}
