@@ -74,7 +74,7 @@ a:hover {
   background: #f4f4f4;
   padding-top: 23px; }
   .main-nav nav ul li a {
-    color: #e73939; }
+    color: #b3b3b3; }
   .main-nav nav ul li.active a {
     color: #4d4d4d; }
 
@@ -114,16 +114,20 @@ a:hover {
   margin-left: 0px; }
   .work .work-list li {
     list-style: none;
-    font-size: 0.9375em;
-    color: #8c8c8c; }
+    color:  #333333; 
+    font-size: 1em;
+    font-weight: 700;}
     .work .work-list li a {
-      padding-bottom: 5px;
-      font-size: 1.1875em;
-      font-weight: 700;
+      padding-bottom: 2px;
       text-decoration: none;
-      border-bottom: 1px solid #b3b3b3; }
+      font-size: 0.85em;
+      border-bottom: 0.5px solid #b3b3b3; }
       .work .work-list li a:hover {
-        border-bottom: 1px solid #333333; }
+        border-bottom: 0.25px solid #8c8c8c; }
+        .work .work-list .date-range{
+          font-size: 1em;
+          color: #b3b3b3;
+        }
 
 .award .award-list {
   margin-left: 0px; }
