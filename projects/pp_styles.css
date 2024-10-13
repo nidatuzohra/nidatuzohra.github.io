@@ -21,6 +21,7 @@ body {
  padding:0;
  width: 195px;
  float: right;
+ background-color: blueviolet;
 }
 #leftcolumn { 
  float: left;
@@ -30,5 +31,6 @@ body {
  width: 683px;
  display: inline;
  position: relative;
+ background-color: aqua;
 }
 .clear { clear: both; background: none; }
