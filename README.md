@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Data Science & Aerospace Engineering
+Data Scientist & Aerospace Engineer
 
 ### Work Experience
 Analyst @ Walker Industries - Gro-Bark 
