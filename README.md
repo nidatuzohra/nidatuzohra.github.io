@@ -1,2 +1,13 @@
+# Data Scientist
 
-![image](https://github.com/user-attachments/assets/19688f36-9006-4031-b50b-52d98095638b)
+### Education
+Data Science & Aerospace Engineering
+
+### Work Experience
+Analyst @ Walker Industries - Gro-Bark 
+
+### Projects
+Project 1
+- impact
+Project 2
+- impact 
